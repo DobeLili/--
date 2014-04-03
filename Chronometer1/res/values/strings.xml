@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chronometer1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world"></string>
+    <string name="butStart">开始</string>
+    <string name="butStop">结束</string>
+    <string name="butBase">复位</string>
+    
+
+</resources>
